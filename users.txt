@@ -1,0 +1,6 @@
+benny,student,1
+admin,admin,2
+alice,student,3
+malice,student,4
+john,student,5
+ben,student,6
